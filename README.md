@@ -19,4 +19,4 @@ Actually, You don't have to do any thing for this prj.
 
 I will update my learning steps in here.
 
-Wish, these data will help you eloquent very soon.
+Wish, these data will help you learning quickly.
