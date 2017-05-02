@@ -12,3 +12,11 @@
 這邊就需要做一些練習，結果找到docker的[resource](https://goo.gl/WF4lpM)。
 
 還蠻完整的~~
+
+### contributing
+
+Actually, You don't have to do any thing for this prj.
+
+I will update my learning steps in here.
+
+Wish, these data will help you eloquent very soon.
