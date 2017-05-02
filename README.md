@@ -9,9 +9,11 @@
 
 看到了[cloudera](https://www.uuu.com.tw/Course/Partner/Cloudera)
 
-這邊就需要做一些練習，結果找到docker的[resource](https://goo.gl/WF4lpM)。
+這邊就需要做一些練習，結果找到docker的[resource](https://goo.gl/WF4lpM)。還蠻完整的~~
 
-還蠻完整的~~
+SO, this is the practice about [cloudera/quickstart](https://goo.gl/ioUWHG)
+
+
 
 ### contributing
 
